@@ -16,6 +16,7 @@ sua descrição
   <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> 
   <img src=https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black />
     <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+  <img src=https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=black=white />
   <!-- <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> -->
   <!-- <img src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D /> -->
 </div>
@@ -33,7 +34,7 @@ sua descrição
 Se quiser conhecer um pouco mais sobre mim, aqui estão alguns links para contato
 
 <div>
-  <a href="mailto:lucas.ribeiro711@gmail.com" target="_blank">
+  <a href="mailto:gabrielzonattobm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-zonatto-170432233/" target="_blank">
