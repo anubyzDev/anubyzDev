@@ -8,29 +8,6 @@ sua descrição
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubyzDev&layout=compact&hide_border=true&theme=vision-friendly-dark" />
 </div>
 
-## Minha *main stack* é composta por:
-
-<div>
-  <!-- <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white /> -->
-  <!-- <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white /> -->
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> 
-  <img src=https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black />
-    <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
-  <img src=https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=black=white />
-   <img src=https://img.shields.io/badge/shellscript-F7DF1E?style=for-the-badge&logo=shelscriptl&logoColor=blackwhite />
-  <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white />
-  <!-- <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> -->
-  <!-- <img src=https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D /> -->
-</div>
-
-## Interesses 
-
-<div>
-  <!-- <img src=https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=333333 /> -->
-  <img src=l/> 
-  <!-- <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white /> -->
-</div>
-<br/>
 
 Se quiser conhecer um pouco mais sobre mim, aqui estão alguns links para contato
 
@@ -41,4 +18,16 @@ Se quiser conhecer um pouco mais sobre mim, aqui estão alguns links para contat
   <a href="https://www.linkedin.com/in/gabriel-zonatto-170432233/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>                                                                                                         
+</div>
+
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
 </div>
