@@ -1,4 +1,4 @@
-# 👋 Olá!
+# 👋 Olá! Eu sou o Gabriel Zonatto, um nerd dos dados!
 
 sua descrição
 
